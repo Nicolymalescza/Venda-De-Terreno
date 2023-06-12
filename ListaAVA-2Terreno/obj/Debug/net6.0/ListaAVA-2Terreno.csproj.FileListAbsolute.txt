@@ -1,0 +1,15 @@
+C:\Users\nicol\OneDrive\Documentos\IFRO\2º ANO\POO\ListaAVA-2Terreno\ListaAVA-2Terreno\bin\Debug\net6.0\ListaAVA-2Terreno.exe
+C:\Users\nicol\OneDrive\Documentos\IFRO\2º ANO\POO\ListaAVA-2Terreno\ListaAVA-2Terreno\bin\Debug\net6.0\ListaAVA-2Terreno.deps.json
+C:\Users\nicol\OneDrive\Documentos\IFRO\2º ANO\POO\ListaAVA-2Terreno\ListaAVA-2Terreno\bin\Debug\net6.0\ListaAVA-2Terreno.runtimeconfig.json
+C:\Users\nicol\OneDrive\Documentos\IFRO\2º ANO\POO\ListaAVA-2Terreno\ListaAVA-2Terreno\bin\Debug\net6.0\ListaAVA-2Terreno.dll
+C:\Users\nicol\OneDrive\Documentos\IFRO\2º ANO\POO\ListaAVA-2Terreno\ListaAVA-2Terreno\bin\Debug\net6.0\ListaAVA-2Terreno.pdb
+C:\Users\nicol\OneDrive\Documentos\IFRO\2º ANO\POO\ListaAVA-2Terreno\ListaAVA-2Terreno\obj\Debug\net6.0\ListaAVA-2Terreno.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\Documentos\IFRO\2º ANO\POO\ListaAVA-2Terreno\ListaAVA-2Terreno\obj\Debug\net6.0\ListaAVA-2Terreno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Documentos\IFRO\2º ANO\POO\ListaAVA-2Terreno\ListaAVA-2Terreno\obj\Debug\net6.0\ListaAVA-2Terreno.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Documentos\IFRO\2º ANO\POO\ListaAVA-2Terreno\ListaAVA-2Terreno\obj\Debug\net6.0\ListaAVA-2Terreno.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Documentos\IFRO\2º ANO\POO\ListaAVA-2Terreno\ListaAVA-2Terreno\obj\Debug\net6.0\ListaAVA-2Terreno.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Documentos\IFRO\2º ANO\POO\ListaAVA-2Terreno\ListaAVA-2Terreno\obj\Debug\net6.0\ListaAVA-2Terreno.dll
+C:\Users\nicol\OneDrive\Documentos\IFRO\2º ANO\POO\ListaAVA-2Terreno\ListaAVA-2Terreno\obj\Debug\net6.0\refint\ListaAVA-2Terreno.dll
+C:\Users\nicol\OneDrive\Documentos\IFRO\2º ANO\POO\ListaAVA-2Terreno\ListaAVA-2Terreno\obj\Debug\net6.0\ListaAVA-2Terreno.pdb
+C:\Users\nicol\OneDrive\Documentos\IFRO\2º ANO\POO\ListaAVA-2Terreno\ListaAVA-2Terreno\obj\Debug\net6.0\ListaAVA-2Terreno.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Documentos\IFRO\2º ANO\POO\ListaAVA-2Terreno\ListaAVA-2Terreno\obj\Debug\net6.0\ref\ListaAVA-2Terreno.dll
