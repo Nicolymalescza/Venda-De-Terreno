@@ -1,4 +1,6 @@
-﻿Console.Write("Informe a largura do terreno: ");
+﻿
+
+Console.Write("Informe a largura do terreno: ");
 double largura = Convert.ToDouble(Console.ReadLine());
 Console.Write("Informe o comprimento do terreno: ");
 double comprimento = Convert.ToDouble(Console.ReadLine());

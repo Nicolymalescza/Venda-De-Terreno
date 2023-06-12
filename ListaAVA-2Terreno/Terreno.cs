@@ -38,5 +38,4 @@
         double calculo = metro * conta;
         return calculo;
     }
-
 }
